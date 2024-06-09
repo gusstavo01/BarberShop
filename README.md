@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# BarberShop
+- Este repositório contém o código fonte de um sistema para barbearias, desenvolvido com React. O sistema permite a gestão de perfis de clientes, agendamentos, e um programa de fidelidade.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🔨 Este sistema ainda está em fase de desenvolvimento. Foi desenvolvido com base em uma necessidade que identifiquei em minha região para melhorar a gestão de barbearias e a experiência dos clientes 
 
-## Available Scripts
+## Tecnologias Utilizadas
+- React: Uma biblioteca JavaScript para criar interfaces de usuário
+- ReactDOM: Fornece métodos específicos do DOM que podem ser usados no nível superior da sua aplicação como uma válvula de escape para sair do modelo do React se necessário.
+- React Router DOM: Biblioteca para controle de rotas.
+- Context API: Utilizado para gerenciar o estado global da aplicação.
+- Styled Components: Utilizado para estilização dos componentes da aplicação.
 
 In the project directory, you can run:
 
-### `npm start`
+## Estrutura do projeto
+#### A estrutura do projeto está organizada da seguinte forma:
+![image](https://github.com/gusstavo01/BarberShop/assets/105757864/c0de5253-1fa0-426a-ae47-a6c71e5bd9d5)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- assets: Contém recursos estáticos, como imagens e estilos globais.
+- components: Contém componentes reutilizáveis da aplicação, como MenuBar, SideMenu e Dashboard.
+- contexts: Contém os contextos usados na aplicação, como o ProfileContext.
+- pages: Contém as páginas principais da aplicação, cada uma representando uma rota específica, como MyAccount, LoyaltyCardAdm, Login, LoyaltyCard e DashboardAdm.
+- routes: Contém a configuração de rotas da aplicação.
+- App.tsx: Componente principal da aplicação que define a estrutura básica e as rotas.
+- index.tsx: Ponto de entrada da aplicação, onde o componente App é renderizado
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### Layout
+#### Tela de Login
+![image](https://github.com/gusstavo01/BarberShop/assets/105757864/ac6bc522-10d3-4c76-9669-8cb50b4f9f0c)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Criar conta
+![image](https://github.com/gusstavo01/BarberShop/assets/105757864/1139d40b-fb9b-4fad-a112-f32c562e7018)
 
-### `npm run build`
+### Dashboard - Usuario
+![image](https://github.com/gusstavo01/BarberShop/assets/105757864/1bedfc92-b169-4ab7-be2c-6e21c60186b3)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Cartçao fidelidade
+![image](https://github.com/gusstavo01/BarberShop/assets/105757864/06980aa1-6a9c-42e6-92e4-8ce1b574fe83)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Dashboard - ADM
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/gusstavo01/BarberShop/assets/105757864/fd984b08-202a-4e75-bdae-9f84b9e9a63e)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Em breve atualizações ⚠️
