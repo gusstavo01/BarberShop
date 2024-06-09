@@ -1,5 +1,5 @@
 # BarberShop
-- Este repositório contém o código fonte de um sistema para barbearias, desenvolvido com React. O sistema permite a gestão de perfis de clientes, agendamentos, e um programa de fidelidade.
+- Este repositório contém o código fonte de um sistema para barbearias, desenvolvido com React e TypeScript. O sistema permite a gestão de perfis de clientes, agendamentos, e um programa de fidelidade.
 
 🔨 Este sistema ainda está em fase de desenvolvimento. Foi desenvolvido com base em uma necessidade que identifiquei em minha região para melhorar a gestão de barbearias e a experiência dos clientes 
 
