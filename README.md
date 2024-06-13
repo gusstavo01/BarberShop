@@ -10,7 +10,6 @@
 - Context API: Utilizado para gerenciar o estado global da aplicação.
 - Styled Components: Utilizado para estilização dos componentes da aplicação.
 
-In the project directory, you can run:
 
 ## Estrutura do projeto
 #### A estrutura do projeto está organizada da seguinte forma:
