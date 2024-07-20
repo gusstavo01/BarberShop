@@ -31,13 +31,13 @@
 #### Criar conta
 ![image](https://github.com/gusstavo01/BarberShop/assets/105757864/1139d40b-fb9b-4fad-a112-f32c562e7018)
 
-### Dashboard - Usuario
+#### Dashboard - Usuario
 ![image](https://github.com/gusstavo01/BarberShop/assets/105757864/1bedfc92-b169-4ab7-be2c-6e21c60186b3)
 
-### Cartçao fidelidade
+#### Cartão fidelidade
 ![image](https://github.com/gusstavo01/BarberShop/assets/105757864/06980aa1-6a9c-42e6-92e4-8ce1b574fe83)
 
-### Dashboard - ADM
+#### Dashboard - ADM
 
 ![image](https://github.com/gusstavo01/BarberShop/assets/105757864/fd984b08-202a-4e75-bdae-9f84b9e9a63e)
 
